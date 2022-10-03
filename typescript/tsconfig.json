@@ -1,0 +1,12 @@
+{
+	"compileOnSave" : false,
+	"compilerOptions" : {
+		"module" : "amd",
+		"outFile" : "../javascript/script.js",
+		"outDir" : "../javascript",
+		"removeComments" : true,
+	},
+	"files" : [
+		"script.ts"
+	]
+}
